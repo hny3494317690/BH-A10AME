@@ -29,9 +29,9 @@ HL 出品的 BH-A10AME 是一款由紫晶储存定制的 BDXL 刻录机，基于
 ---
 
 
-The BH-A10AME by HL is a custom BDXL Blu-ray burner designed specifically for Zijing Storage. It's built on the MT1959 platform and has identical hardware to the ASUS BW-16D1HT.
+The BH-A10AME by HL is a custom BDXL Blu-ray burner designed specifically for Amethystum. It's built on the MT1959 platform and has identical hardware to the ASUS BW-16D1HT.
 
-Due to Zijing’s proprietary firmware, the BH-A10AME can burn Zijing-branded Mitsubishi 100GB BDXL discs. However, the trade-off is that it loses UHD playback support. Although it was released in 2020, it only supports AACS version 62 encryption, meaning it can’t read any UHD movie discs.
+Due to Amethystum’s proprietary firmware, the BH-A10AME can burn Amethystum-branded Mitsubishi 100GB BDXL discs. However, the trade-off is that it loses UHD playback support. Although it was released in 2020, it only supports AACS version 62 encryption, meaning it can’t read any UHD movie discs.
 
 The good news is, you can flash the drive with ASUS BW-16D1HT firmware to unlock UHD read/write capabilities. If you bought this drive from certain Chinese online retailers and only have one Blu-ray drive, this method can save you from needing to buy another drive just to read UHD discs.
 
