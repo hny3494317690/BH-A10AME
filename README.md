@@ -11,6 +11,7 @@ HL 出品的 BH-A10AME 是一款由紫晶储存定制的 BDXL 刻录机，基于
 - 本方案只适用于 Windows 系统  
 - 不适用于使用 SATA 转 USB 的笔记本用户  
 - 支持 MakeMKV 的完整功能
+- 此操作不可逆，我无法找到完整原厂固件
 
 **操作步骤如下：**
 
@@ -38,6 +39,7 @@ The good news is, you can flash the drive with ASUS BW-16D1HT firmware to unlock
 - This process only works on Windows  
 - It does *not* work with SATA-to-USB adapters (such as in many laptops)  
 - The drive will fully support MakeMKV's UHD features after flashing
+- Warning: This action is irreversible.
 
 **Steps to Flash the Firmware:**
 
